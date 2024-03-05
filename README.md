@@ -6,6 +6,7 @@ Execute os seguintes comandos:
 ```bash
 npm init
 npm i express
+npm i nodemon
 ```
 Edite o arquivo package.json com o seguinte conteúdo:
 ```json
